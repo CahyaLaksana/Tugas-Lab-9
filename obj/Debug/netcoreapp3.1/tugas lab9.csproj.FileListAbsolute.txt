@@ -1,0 +1,22 @@
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\bin\Debug\netcoreapp3.1\tugas lab9.exe
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\bin\Debug\netcoreapp3.1\tugas lab9.deps.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\bin\Debug\netcoreapp3.1\tugas lab9.runtimeconfig.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\bin\Debug\netcoreapp3.1\tugas lab9.runtimeconfig.dev.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\bin\Debug\netcoreapp3.1\tugas lab9.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\bin\Debug\netcoreapp3.1\tugas lab9.pdb
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\obj\Debug\netcoreapp3.1\tugas lab9.csprojAssemblyReference.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\obj\Debug\netcoreapp3.1\tugas lab9.AssemblyInfoInputs.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\obj\Debug\netcoreapp3.1\tugas lab9.AssemblyInfo.cs
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\obj\Debug\netcoreapp3.1\tugas lab9.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab9\obj\Debug\netcoreapp3.1\tugas lab9.pdb
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\bin\Debug\netcoreapp3.1\tugas lab9.exe
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\bin\Debug\netcoreapp3.1\tugas lab9.deps.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\bin\Debug\netcoreapp3.1\tugas lab9.runtimeconfig.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\bin\Debug\netcoreapp3.1\tugas lab9.runtimeconfig.dev.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\bin\Debug\netcoreapp3.1\tugas lab9.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\bin\Debug\netcoreapp3.1\tugas lab9.pdb
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\obj\Debug\netcoreapp3.1\tugas lab9.csprojAssemblyReference.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\obj\Debug\netcoreapp3.1\tugas lab9.AssemblyInfoInputs.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\obj\Debug\netcoreapp3.1\tugas lab9.AssemblyInfo.cs
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\obj\Debug\netcoreapp3.1\tugas lab9.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\tugas lab 9(kumpul)\obj\Debug\netcoreapp3.1\tugas lab9.pdb
